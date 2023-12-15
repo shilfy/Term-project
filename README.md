@@ -8,3 +8,5 @@ img width="100%" src= "hhttps://github.com/shilfy/Term-project/issues/1#issue-20
  고양이의 마릿수와 눈동자의 숫자를 출력하는 프로그램.
 
  실행 이미지:
+![1702560093_721921IMG_4308](https://github.com/shilfy/Term-project/assets/144356583/ce3e6288-9cf7-420b-b934-4c28e63229d8)
+![1702560093_745965IMG_4307](https://github.com/shilfy/Term-project/assets/144356583/e51a2c4e-c320-4642-a626-9a55f3e43111)
